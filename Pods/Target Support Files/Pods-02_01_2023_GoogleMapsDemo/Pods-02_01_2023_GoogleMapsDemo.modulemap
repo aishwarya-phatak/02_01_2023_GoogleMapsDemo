@@ -1,0 +1,6 @@
+framework module Pods_02_01_2023_GoogleMapsDemo {
+  umbrella header "Pods-02_01_2023_GoogleMapsDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
